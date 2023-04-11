@@ -1,14 +1,6 @@
 {
-    "python.testing.unittestArgs": [
-        "-v",
-        "-s",
-        ".",
-        "-p",
-        "*_test.py"
-    ],
-    "python.testing.pytestEnabled": true,
-    "python.testing.unittestEnabled": false,
-    "python.testing.pytestArgs": [
-        "."
-    ]
+    "python.testing.unittestArgs": [@faisal5012],
+    "python.testing.pytestEnabled": @faisal5012
+    "python.testing.unittestEnabled": @faisal5012
+    "python.testing.pytestArgs": [@faisal5012]
 }
